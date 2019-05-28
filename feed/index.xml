@@ -9,8 +9,8 @@
 
 <channel>
 	<title>k2b4</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://https://mrpatg.github.io/k2b4demo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://mrpatg.github.io/k2b4demo/</link>
 	<description>K2 theme recreated in bootstrap 4</description>
 	<lastBuildDate>Tue, 28 May 2019 10:42:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -23,23 +23,23 @@ Warning: call_user_func_array() expects parameter 1 to be a valid callback, func
 
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-				<comments>/hello-world/#comments</comments>
+		<link>https://https://mrpatg.github.io/k2b4demo/hello-world/</link>
+				<comments>https://https://mrpatg.github.io/k2b4demo/hello-world/#comments</comments>
 				<pubDate>Wed, 22 May 2019 05:21:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://https://mrpatg.github.io/k2b4demo/?p=1</guid>
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+							<wfw:commentRss>https://https://mrpatg.github.io/k2b4demo/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 		<item>
 		<title>Markup: HTML Tags and Formatting</title>
-		<link>/markup-html-tags-and-formatting/</link>
+		<link>https://https://mrpatg.github.io/k2b4demo/markup-html-tags-and-formatting/</link>
 				<pubDate>Sat, 12 Jan 2013 03:22:19 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
 				<category><![CDATA[Markup]]></category>
@@ -202,7 +202,7 @@ United States</address>
 										</item>
 		<item>
 		<title>Markup: Image Alignment</title>
-		<link>/markup-image-alignment/</link>
+		<link>https://https://mrpatg.github.io/k2b4demo/markup-image-alignment/</link>
 				<pubDate>Fri, 11 Jan 2013 03:15:40 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
 				<category><![CDATA[Markup]]></category>
@@ -217,26 +217,26 @@ United States</address>
 				<description><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let&#8217;s get started. On the topic of alignment, it should be noted that users can choose from the options of None, Left, Right, and Center. In [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let&#8217;s get started.</p>
 <p>On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>.</p>
-<p style="text-align:center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
+<p style="text-align:center;"><img class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://https://mrpatg.github.io/k2b4demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
 <p>The image above happens to be <em><strong>centered</strong></em>.</p>
-<p><strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="/wp-content/uploads/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150&#215;150 image, which is <em><strong>left aligned</strong></em>. <strong></strong></p>
+<p><strong><img class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://https://mrpatg.github.io/k2b4demo/wp-content/uploads/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150&#215;150 image, which is <em><strong>left aligned</strong></em>. <strong></strong></p>
 <p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we&#8217;ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it&#8217;s thang. Mission accomplished!</p>
 <p>And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.</p>
-<p><img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /></p>
+<p><img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://https://mrpatg.github.io/k2b4demo/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /></p>
 <p>The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
-<p><img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="/wp-content/uploads/2013/03/image-alignment-300x200.jpg" width="300" height="200" /></p>
+<p><img class="size-full wp-image-905 alignright" title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://https://mrpatg.github.io/k2b4demo/wp-content/uploads/2013/03/image-alignment-300x200.jpg" width="300" height="200" /></p>
 <p>And now we&#8217;re going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there&#8230; Hey guy! Way to rock that right side. I don&#8217;t care what the left aligned image says, you look great. Don&#8217;t let anyone else tell you differently.</p>
 <p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah&#8230; Just like that. It never felt so good to be right.</p>
 <p>And just when you thought we were done, we&#8217;re going to do them all over again with captions!</p>
-<p><img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
+<p><img class="size-full wp-image-906  " title="Image Alignment 580x300" alt="Image Alignment 580x300" src="https://https://mrpatg.github.io/k2b4demo/wp-content/uploads/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
 <p>The image above happens to be <em><strong>centered</strong></em>. The caption also has a link in it, just to see if it does anything funky.</p>
-<p><img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="/wp-content/uploads/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></p>
+<p><img class="size-full wp-image-904  " title="Image Alignment 150x150" alt="Image Alignment 150x150" src="https://https://mrpatg.github.io/k2b4demo/wp-content/uploads/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></p>
 <p><strong></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150&#215;150 image, which is <em><strong>left aligned</strong></em>. <strong></strong></p>
 <p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we&#8217;ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it&#8217;s thang. Mission accomplished!</p>
 <p>And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.</p>
-<p><img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /></p>
+<p><img class=" wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="https://https://mrpatg.github.io/k2b4demo/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /></p>
 <p>The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
-<p><img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="/wp-content/uploads/2013/03/image-alignment-300x200.jpg" width="300" height="200" /></p>
+<p><img class="size-full wp-image-905 " title="Image Alignment 300x200" alt="Image Alignment 300x200" src="https://https://mrpatg.github.io/k2b4demo/wp-content/uploads/2013/03/image-alignment-300x200.jpg" width="300" height="200" /></p>
 <p>And now we&#8217;re going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there&#8230; Hey guy! Way to rock that right side. I don&#8217;t care what the left aligned image says, you look great. Don&#8217;t let anyone else tell you differently.</p>
 <p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah&#8230; Just like that. It never felt so good to be right.</p>
 <p>And that&#8217;s a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!</p>
@@ -244,7 +244,7 @@ United States</address>
 										</item>
 		<item>
 		<title>Markup: Text Alignment</title>
-		<link>/markup-text-alignment/</link>
+		<link>https://https://mrpatg.github.io/k2b4demo/markup-text-alignment/</link>
 				<pubDate>Wed, 09 Jan 2013 16:00:39 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
 				<category><![CDATA[Markup]]></category>
@@ -269,7 +269,7 @@ United States</address>
 										</item>
 		<item>
 		<title>Markup: Title With Special Characters</title>
-		<link>/title-with-special-characters/</link>
+		<link>https://https://mrpatg.github.io/k2b4demo/title-with-special-characters/</link>
 				<pubDate>Sat, 05 Jan 2013 18:00:20 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
 				<category><![CDATA[Markup]]></category>
@@ -412,7 +412,7 @@ United States</address>
 										</item>
 		<item>
 		<title>Markup: Title With Markup</title>
-		<link>/markup-title-with-markup/</link>
+		<link>https://https://mrpatg.github.io/k2b4demo/markup-title-with-markup/</link>
 				<pubDate>Sat, 05 Jan 2013 17:00:49 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
 				<category><![CDATA[Markup]]></category>
@@ -431,7 +431,7 @@ United States</address>
 										</item>
 		<item>
 		<title>Template: Featured Image (Vertical)</title>
-		<link>/template-featured-image-vertical/</link>
+		<link>https://https://mrpatg.github.io/k2b4demo/template-featured-image-vertical/</link>
 				<pubDate>Thu, 15 Mar 2012 22:36:32 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
 				<category><![CDATA[Template]]></category>
@@ -451,7 +451,7 @@ United States</address>
 										</item>
 		<item>
 		<title>Template: Featured Image (Horizontal)</title>
-		<link>/template-featured-image-horizontal/</link>
+		<link>https://https://mrpatg.github.io/k2b4demo/template-featured-image-horizontal/</link>
 				<pubDate>Thu, 15 Mar 2012 22:15:12 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
 				<category><![CDATA[Template]]></category>
@@ -471,7 +471,7 @@ United States</address>
 										</item>
 		<item>
 		<title>Template: More Tag</title>
-		<link>/template-more-tag/</link>
+		<link>https://https://mrpatg.github.io/k2b4demo/template-more-tag/</link>
 				<pubDate>Thu, 15 Mar 2012 21:41:11 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
 				<category><![CDATA[Template]]></category>
@@ -490,7 +490,7 @@ United States</address>
 										</item>
 		<item>
 		<title>Template: Excerpt (Defined)</title>
-		<link>/template-excerpt-defined/</link>
+		<link>https://https://mrpatg.github.io/k2b4demo/template-excerpt-defined/</link>
 				<pubDate>Thu, 15 Mar 2012 21:38:08 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
 				<category><![CDATA[Template]]></category>
